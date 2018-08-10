@@ -10,7 +10,8 @@ Features that this app has:
 This program is written with SWING Library and uses the MVC Architecture.
 
 # Dependencies
-  JAVA                                     
+  JAVA 
+  MySQL                               
   IDE Supported JAVA(like NetBeans | eclipse | etc)
 
 
