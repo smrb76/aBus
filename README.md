@@ -5,6 +5,7 @@ This program is written with SWING Library and uses the MVC Architecture.
 
 # Dependencies
   JAVA
+  
   IDE Supported JAVA(like NetBeans | eclipse | etc)
 
 
