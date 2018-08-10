@@ -1,9 +1,9 @@
 # aBus
-Features that this app has:
--Add/Edit tour  
--Add/Edit Employee  
--Reserve tour by passengers 
--Search tour  
+Features that this app has:                           
+-Add/Edit tour                         
+-Add/Edit Employee                              
+-Reserve tour by passengers                             
+-Search tour                              
 
 
 # Description
